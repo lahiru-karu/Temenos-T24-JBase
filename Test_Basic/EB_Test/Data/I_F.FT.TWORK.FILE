@@ -1,0 +1,4 @@
+* File Layout for FT.TWORK.FILE Created 11 JUL 25 at 12:32AM by Dell
+*      PREFIX[FT.TWO16.]   
+EQU FT.TWO16.STATUS TO 1,
+    FT.TWO16.TIMESTAMP TO 2

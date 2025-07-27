@@ -1,0 +1,20 @@
+component EB.Test
+# Component Isolation Definition
+metamodelVersion 1.6
+# -------------------------------------------------
+
+public method ebTestValidation() {
+    jBC: EB.TEST.VALIDATION
+}
+
+public method ftDefaultAcCcy() {
+    jBC: FT.DEFAULT.AC.CCY
+}
+
+public method ftUpdateTworkFile() {
+    jBC: FT.UPDATE.TWORK.FILE
+}
+
+public method ftReverseTworkService() {
+    jBC: FT.REVERSE.TWORK.SERVICE
+}

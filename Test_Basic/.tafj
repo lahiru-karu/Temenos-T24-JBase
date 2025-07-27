@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+<Property key="temn.tafj.config.file" value="C:\Temenos\R22\Env\Slot01\Products\TAFJ\Default\conf\tafj.properties"/>
+<Property key="tafj.home" value="C:\Temenos\R22\Env\Slot01\Products\TAFJ\Default"/>
+</Properties>
