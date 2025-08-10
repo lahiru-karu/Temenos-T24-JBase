@@ -1,0 +1,8 @@
+component AA.TestRoutines
+# Component Isolation Definition
+metamodelVersion 1.6
+# -------------------------------------------------
+
+public method aaMortDisbursePostRest() {
+    jBC: AA.MORT.DISBURSE.POST.REST
+}

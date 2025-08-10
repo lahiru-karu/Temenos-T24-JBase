@@ -1,0 +1,8 @@
+component EB.RecordComparison
+# Component Isolation Definition
+metamodelVersion 1.6
+# -------------------------------------------------
+
+public method ebRecordChangesCommit() {
+    jBC: EB.RECORD.CHANGES.COMMIT
+}
