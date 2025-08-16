@@ -6,3 +6,7 @@ metamodelVersion 1.6
 public method aaMortDisbursePostRest() {
     jBC: AA.MORT.DISBURSE.POST.REST
 }
+
+public method aaAcLegacyNoValidation() {
+    jBC: AA.AC.LEGACY.NO.VALIDATION
+}
